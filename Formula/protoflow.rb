@@ -1,8 +1,8 @@
 class Protoflow < Formula
   desc "Protoflow"
-  homepage "https://github.com/AsimovPlatform/protoflow"
+  homepage "https://github.com/asimov-platform/protoflow"
   license "Unlicense"
-  head "https://github.com/AsimovPlatform/protoflow.git", branch: "master"
+  head "https://github.com/asimov-platform/protoflow.git", branch: "master"
 
   depends_on "rust" => :build
 

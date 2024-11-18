@@ -12,7 +12,7 @@ This repository contains public Homebrew formulas for the
 Firstly, register this tap in your local Homebrew installation with:
 
 ```bash
-brew tap AsimovPlatform/tap
+brew tap asimov-platform/tap
 ```
 
 ## Installation
@@ -27,5 +27,5 @@ brew install protoflow --HEAD
 
 See [Homebrew's documentation](https://docs.brew.sh) in case of any trouble.
 
-[ASIMOV Platform]: https://github.com/AsimovPlatform
-[Protoflow]:       https://github.com/AsimovPlatform/protoflow
+[ASIMOV Platform]: https://github.com/asimov-platform
+[Protoflow]:       https://github.com/asimov-platform/protoflow
